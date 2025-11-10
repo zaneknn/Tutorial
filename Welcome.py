@@ -15,4 +15,3 @@ def introduction_task () :
     # Run the task
 introduction_task ()
 
-#hello world
