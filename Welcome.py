@@ -14,5 +14,3 @@ def introduction_task () :
     print (f"The result of adding { num1 } and { num2 } is : { result } ")
     # Run the task
 introduction_task ()
-
-#hello everyone
